@@ -1,0 +1,852 @@
+:: StoryTitle
+Digital Engagement
+
+
+:: StoryData
+{
+  "ifid": "6D4FA2A8-092B-4A77-8928-1F5B0D063BA7",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Introduction",
+  "zoom": 1
+}
+
+
+:: Are we still hungry? {"position":"1125,3600","size":"100,100"}
+We are no longer hungry, but we are also not the same as we were before. We cannot live as we used to.
+
+[[Who are we?]]
+
+
+:: Are we still hungry? {"position":"1125,3600","size":"100,100"}
+We are no longer hungry, but we are also not the same as we were before. We cannot live as we used to.
+
+[[Who are we?]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/strange.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Did this work? {"position":"950,1625","size":"100,100"}
+Our gardens died. We were hungry
+
+[[More astronauts arrive]] 
+
+
+:: Did this work? {"position":"950,1625","size":"100,100"}
+Our gardens died. We were hungry
+
+[[More astronauts arrive]]
+
+
+:: Did this work? {"position":"950,1625","size":"100,100"}
+Our gardens died. We were hungry
+
+[[More astronauts arrive]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/dead-garden.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/stomach.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Go to the stars {"position":"750,3475","size":"100,100"}
+We ask the astronauts for their star ships. They agree, and take everything we have left in return.
+
+[[To the stars!]]
+
+
+:: Go to the stars {"position":"750,3475","size":"100,100"}
+We ask the astronauts for their star ships. They agree, and take everything we have left in return.
+
+[[To the stars!]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/rocket.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/spaceSound.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Go to the wasteland {"position":"875,3475","size":"100,100"}
+The wastelands are dark and cold. Not many of us remain there because it is a hard place to live.
+
+[[What can we do?]]
+
+
+:: Go to the wasteland {"position":"875,3475","size":"100,100"}
+The wastelands are dark and cold. Not many of us remain there because it is a hard place to live.
+
+[[What can we do?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/wasteland.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/wind.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Hopefully they appreciate our planet! {"position":"1075,1600","size":"100,100"}
+But they still did not understand the planet, even if they thought it was beautiful. Our trees were still gone. Our houses were still hot. Our gardens were dead. The astronauts did not help.
+
+[[More astronauts arrive]] 
+
+
+:: Hopefully they appreciate our planet! {"position":"1075,1600","size":"100,100"}
+But they still did not understand the planet, even if they thought it was beautiful. Our trees were still gone. Our houses were still hot. Our gardens were dead. The astronauts did not help.
+
+[[More astronauts arrive]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/wind.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Introduction {"position":"1075,200","size":"100,100"}
+When the people from the stars came to our planet, they liked the shimmering pink stalks that grew around our homes. They called the stalks trees.
+
+[[Who are they?]]<!--(enchant:?page,(bg:(hsl:30,0.8039,0.5,0.7)))--!>
+
+
+:: Introduction {"position":"1075,200","size":"100,100"}
+When the people from the stars came to our planet, they liked the shimmering pink stalks that grew around our homes. They called the stalks trees.
+
+[[Who are they?]]<!--(enchant:?page,(bg:(hsl:30,0.8039,0.5,0.7)))--!>
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/rocket.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/spaceSound.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: It looks like they brought some things with them {"position":"1050,700","size":"100,100"}
+They brought many instruments. They measured. They collected. They said our planet would be better without trees. The astronauts would cut the trees down themselves. Should we let them?
+
+[[Yes, let's let them cut down the trees]]
+[[No, we need to protect our trees]]
+
+
+:: It looks like they brought some things with them {"position":"1050,700","size":"100,100"}
+They brought many instruments. They measured. They collected. They said our planet would be better without trees. The astronauts would cut the trees down themselves. Should we let them?
+
+[[Yes, let's let them cut down the trees]]
+[[No, we need to protect our trees]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/nature.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Let's fight the astronauts! {"position":"1000,3400","size":"100,100"}
+We tried to attack the astronauts, but there were too many of them. We lost the fights. 
+
+[[What happened next?]]
+
+
+:: Let's fight the astronauts! {"position":"1000,3400","size":"100,100"}
+We tried to attack the astronauts, but there were too many of them. We lost the fights. 
+
+[[What happened next?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/david-goliath.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/angryMob.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Let's try live with the astronauts {"position":"1125,3350","size":"100,100"}
+The astronauts have strange houses that do not suit us, but we learn to like them.
+
+[[What about our children?]]
+
+
+:: Let's try live with the astronauts {"position":"1125,3350","size":"100,100"}
+The astronauts have strange houses that do not suit us, but we learn to like them.
+
+[[What about our children?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/space-city.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/strange.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Let's try their food! {"position":"850,2550","size":"100,100"}
+Some of the food we liked, but some of it made us sick and forgetful. They brought bitter liquids and sour fruit that turned our stomachs.
+
+[[They brought new animals!]]
+
+
+:: Let's try their food! {"position":"850,2550","size":"100,100"}
+Some of the food we liked, but some of it made us sick and forgetful. They brought bitter liquids and sour fruit that turned our stomachs.
+
+[[They brought new animals!]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/exotic-food.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/sick.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: More astronauts arrive {"position":"1000,1925","size":"100,100"}
+More astronauts came in silver ships from the stars. They spread across our planet. They learned to breathe our air, to walk on our earth. None of our valleys or mountains could stop them.
+
+[[What did they do on our planet?]]
+
+
+:: More astronauts arrive {"position":"1000,1925","size":"100,100"}
+More astronauts came in silver ships from the stars. They spread across our planet. They learned to breathe our air, to walk on our earth. None of our valleys or mountains could stop them.
+
+[[What did they do on our planet?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/space-mountain.avif?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/rocketLaunch.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: No, let's keep them for ourselves {"position":"950,1450","size":"100,100"}
+We put the cards and papers and coins on the walls of our houses. The coins glinted in the purple starlight every afternoon.
+
+[[Did this work?]]
+
+
+:: No, let's keep them for ourselves {"position":"950,1450","size":"100,100"}
+We put the cards and papers and coins on the walls of our houses. The coins glinted in the purple starlight every afternoon.
+
+[[Did this work?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/glittering-coins.webp?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/shimmer.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: No, they put us in this situation! {"position":"1500,1450","size":"100,100"}
+We stayed away from the astronauts, and they no longer tried to speak to us.
+
+[[More astronauts arrive]] 
+
+
+:: No, they put us in this situation! {"position":"1500,1450","size":"100,100"}
+We stayed away from the astronauts, and they no longer tried to speak to us.
+
+[[More astronauts arrive]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crickets.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: No, we can't trust their food {"position":"1250,2575","size":"100,100"}
+We didn’t eat the food the astronauts had, but there wasn’t much left of our own food. Many afternoons we sat watching the stars glittering overhead with empty stomachs.
+
+[[They brought new animals!|We liked the animals]]
+
+
+:: No, we can't trust their food {"position":"1250,2575","size":"100,100"}
+We didn’t eat the food the astronauts had, but there wasn’t much left of our own food. Many afternoons we sat watching the stars glittering overhead with empty stomachs.
+
+[[They brought new animals!|We liked the animals]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/stars.png?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/stomach.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: No, we need to protect our trees {"position":"1225,850","size":"100,100"}
+The astronauts didn’t understand the way we talked. We told them not to cut down our trees, but they cut them down anyway.
+
+[[They destroy our trees]]
+
+
+
+:: No, we need to protect our trees {"position":"1225,850","size":"100,100"}
+The astronauts didn’t understand the way we talked. We told them not to cut down our trees, but they cut them down anyway.
+
+[[They destroy our trees]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/deforestation.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/cuttingTree.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: No, we should go away instead {"position":"875,3350","size":"100,100"}
+The only place left on our planet where the astronauts have not put their houses is the wasteland. Should we go to the wasteland, or should we ask the astronauts for their ships and go to the stars?
+
+[[Go to the wasteland]]
+[[Go to the stars]]
+
+
+:: No, we should go away instead {"position":"875,3350","size":"100,100"}
+The only place left on our planet where the astronauts have not put their houses is the wasteland. Should we go to the wasteland, or should we ask the astronauts for their ships and go to the stars?
+
+[[Go to the wasteland]]
+[[Go to the stars]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crickets.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Sharing the planet is difficult {"position":"1000,2850","size":"100,100"}
+It was hard to share the planet with the astronauts. They were so different to us.
+
+[[They changed so much]]
+
+
+:: Sharing the planet is difficult {"position":"1000,2850","size":"100,100"}
+It was hard to share the planet with the astronauts. They were so different to us.
+
+[[They changed so much]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crickets.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: The astronauts approach with a deal {"position":"850,1300","size":"100,100"}
+The astronauts brought us things in exchange for the trees. Papers, cards, coins. We didn’t know what to do with them. Should we give them back to the astronauts?
+
+[[Yes, let's give them back to the astronauts]]
+[[No, let's keep them for ourselves]]
+
+
+:: The astronauts approach with a deal {"position":"850,1300","size":"100,100"}
+The astronauts brought us things in exchange for the trees. Papers, cards, coins. We didn’t know what to do with them. Should we give them back to the astronauts?
+
+[[Yes, let's give them back to the astronauts]]
+[[No, let's keep them for ourselves]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crowdTalk.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: The wastelands {"position":"1000,3700","size":"100,100"}
+Not many of us made it to the wasteland. Now very few of us remain. The planet belongs to the astronauts.
+
+[[What can we do?|What can we do?2]]<!--TODO fix this-->
+
+
+:: The wastelands {"position":"1000,3700","size":"100,100"}
+Not many of us made it to the wasteland. Now very few of us remain. The planet belongs to the astronauts.
+
+[[What can we do?|What can we do?2]]<!--TODO fix this-->
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/wasteland.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/wind.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: They brought new animals! {"position":"850,2725","size":"100,100"}
+And some of the new animals hurt us. They trampled our plants with sharp hooves until nothing bloomed. They chased us and bit us.
+
+[[Sharing the planet is difficult]]
+
+
+:: They brought new animals! {"position":"850,2725","size":"100,100"}
+And some of the new animals hurt us. They trampled our plants with sharp hooves until nothing bloomed. They chased us and bit us.
+
+[[Sharing the planet is difficult]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/chasing-animal.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/stampede.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: They changed so much {"position":"1000,3050","size":"100,100"}
+Soon our planet could not be recognized. Our trees had been replaced with theirs. Our familiar land was gone.
+
+[[We were afraid]]
+
+
+:: They changed so much {"position":"1000,3050","size":"100,100"}
+Soon our planet could not be recognized. Our trees had been replaced with theirs. Our familiar land was gone.
+
+[[We were afraid]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/scared-boy.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crickets.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: They destroy our trees {"position":"1225,1025","size":"100,100"}
+We tried to stop them. The astronauts were angry. They broke things in our houses and tore up our gardens.
+
+[[What should we do without our trees?]]
+
+
+
+:: They destroy our trees {"position":"1225,1025","size":"100,100"}
+We tried to stop them. The astronauts were angry. They broke things in our houses and tore up our gardens.
+
+[[What should we do without our trees?]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/angryMob.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: To the stars! {"position":"750,3600","size":"100,100"}
+There are not many of us left. We all go in the star ships to find another planet, one without astronauts.
+
+[[What does the future hold?]]
+
+
+:: To the stars! {"position":"750,3600","size":"100,100"}
+There are not many of us left. We all go in the star ships to find another planet, one without astronauts.
+
+[[What does the future hold?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/space.avif?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/rocketLaunch.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: We liked the animals {"position":"1250,2750","size":"100,100"}
+Some of the new animals we liked. They had bright eyes and kind faces. But some of the animals trampled our ground with sharp hooves until nothing bloomed.
+
+[[Sharing the planet is difficult]]
+
+
+:: We liked the animals {"position":"1250,2750","size":"100,100"}
+Some of the new animals we liked. They had bright eyes and kind faces. But some of the animals trampled our ground with sharp hooves until nothing bloomed.
+
+[[Sharing the planet is difficult]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/stampede.png?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/stampede.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: We were afraid {"position":"1000,3225","size":"100,100"}
+Some of us were afraid. Many of us were angry. Should we try to fight the astronauts and make them go away?
+
+[[Let's fight the astronauts!]]
+[[Let's try live with the astronauts]]
+[[No, we should go away instead]]
+
+
+:: We were afraid {"position":"1000,3225","size":"100,100"}
+Some of us were afraid. Many of us were angry. Should we try to fight the astronauts and make them go away?
+
+[[Let's fight the astronauts!]]
+[[Let's try live with the astronauts]]
+[[No, we should go away instead]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crowdTalk.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What about nature? {"position":"1000,2375","size":"100,100"}
+The astronauts brought new trees with broad green leaves and deep roots that sunk into our red striped soil. They had other animals and food we didn’t recognize. Should we try their food?
+
+[[Let's try their food!]]
+[[No, we can't trust their food]]
+
+
+:: What about nature? {"position":"1000,2375","size":"100,100"}
+The astronauts brought new trees with broad green leaves and deep roots that sunk into our red striped soil. They had other animals and food we didn’t recognize. Should we try their food?
+
+[[Let's try their food!]]
+[[No, we can't trust their food]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crickets.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What about our children? {"position":"1125,3475","size":"100,100"}
+Our little ones learn in astronaut schools. They learn to talk like the people from the stars. Soon they cannot understand our elders anymore. As the years pass, they begin to grow up with astronaut faces.
+
+[[Are we still hungry?]]
+
+
+:: What about our children? {"position":"1125,3475","size":"100,100"}
+Our little ones learn in astronaut schools. They learn to talk like the people from the stars. Soon they cannot understand our elders anymore. As the years pass, they begin to grow up with astronaut faces.
+
+[[Are we still hungry?]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/strange.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What about our houses? {"position":"850,1000","size":"100,100"}
+We told the astronauts our houses were too hot. They couldn’t understand the way we talked. They cut down more of the trees.
+
+[[What happened to the rest of the trees?]]
+
+
+:: What about our houses? {"position":"850,1000","size":"100,100"}
+We told the astronauts our houses were too hot. They couldn’t understand the way we talked. They cut down more of the trees.
+
+[[What happened to the rest of the trees?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/hot-house.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crowdTalk.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What can we do? {"position":"875,3600","size":"100,100"}
+We try to tell our little ones about our planet before the astronauts came, but they cannot imagine our old gardens, houses, and trees.
+
+
+:: What can we do? {"position":"875,3600","size":"100,100"}
+We try to tell our little ones about our planet before the astronauts came, but they cannot imagine our old gardens, houses, and trees.
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/wasteland.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/wind.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What can we do?2 {"position":"1000,3825","size":"100,100"}
+We sometimes watch the purple morning mist rolling across the dark wasteland and remember what it was like before they came. We tell stories to our little ones about our planet before the astronauts came, but they do not know what our gardens, our trees, and our houses looked like.
+
+
+:: What can we do?2 {"position":"1000,3825","size":"100,100"}
+We sometimes watch the purple morning mist rolling across the dark wasteland and remember what it was like before they came. We tell stories to our little ones about our planet before the astronauts came, but they do not know what our gardens, our trees, and our houses looked like.
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/spaceSound.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What did they do on our planet? {"position":"1000,2150","size":"100,100"}
+Soon our own houses were like shadows of theirs. They did not live with the plants like we did. They built upwards into the sky.
+
+[[What about nature?]]
+
+
+:: What did they do on our planet? {"position":"1000,2150","size":"100,100"}
+Soon our own houses were like shadows of theirs. They did not live with the plants like we did. They built upwards into the sky.
+
+[[What about nature?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/space-city.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/construction.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What did they think of our planet? {"position":"1075,1450","size":"100,100"}
+The astronauts liked our planet. They thought what we shared with them was beautiful.
+
+[[Hopefully they appreciate our planet!]]
+
+
+:: What did they think of our planet? {"position":"1075,1450","size":"100,100"}
+The astronauts liked our planet. They thought what we shared with them was beautiful.
+
+[[Hopefully they appreciate our planet!]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/red-planet.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/nature.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What does the future hold? {"position":"750,3725","size":"100,100"}
+As we fly through the stars, some of us worry about the people who will live on the planet when we arrive. Will we do to them what the astronauts have done to us?
+
+
+:: What does the future hold? {"position":"750,3725","size":"100,100"}
+As we fly through the stars, some of us worry about the people who will live on the planet when we arrive. Will we do to them what the astronauts have done to us?
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/space.avif?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/spaceSound.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What happened next? {"position":"1000,3550","size":"100,100"}
+They forced us to go to the wastelands of the planet. It was the only place left without their buildings.
+
+[[The wastelands]]
+
+
+:: What happened next? {"position":"1000,3550","size":"100,100"}
+They forced us to go to the wastelands of the planet. It was the only place left without their buildings.
+
+[[The wastelands]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/wasteland.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/wind.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What happened to the rest of the trees? {"position":"850,1150","size":"100,100"}
+Soon there were no trees left.
+
+[[The astronauts approach with a deal]]
+
+
+:: What happened to the rest of the trees? {"position":"850,1150","size":"100,100"}
+Soon there were no trees left.
+
+[[The astronauts approach with a deal]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/no-trees.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/wind.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: What should we do without our trees? {"position":"1225,1175","size":"100,100"}
+Without our gardens, we were hungry. Without our trees, our houses became hot. Should we try to be friends with the astronauts again?
+
+[[Yes, let's befriend them]]
+[[No, they put us in this situation!]]
+
+
+:: What should we do without our trees? {"position":"1225,1175","size":"100,100"}
+Without our gardens, we were hungry. Without our trees, our houses became hot. Should we try to be friends with the astronauts again?
+
+[[Yes, let's befriend them]]
+[[No, they put us in this situation!]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/stomach.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Where did they come from? {"position":"1075,525","size":"100,100"}
+The astronauts only knew about their own planet.
+
+[[It looks like they brought some things with them]]
+
+
+:: Where did they come from? {"position":"1075,525","size":"100,100"}
+The astronauts only knew about their own planet.
+
+[[It looks like they brought some things with them]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/planet.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/crowdTalk.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Who are they? {"position":"1075,375","size":"100,100"}
+The astronauts were friendly. There were not many of them. They did not understand our planet: the bands of red striped earth, the things that bloomed if only we did not trample on them, the purple mists in the morning and the twinkling stars in the afternoon.
+
+[[Where did they come from?]]
+
+
+:: Who are they? {"position":"1075,375","size":"100,100"}
+The astronauts were friendly. There were not many of them. They did not understand our planet: the bands of red striped earth, the things that bloomed if only we did not trample on them, the purple mists in the morning and the twinkling stars in the afternoon.
+
+[[Where did they come from?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/purple-mist.avif?raw=True />
+</div>
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/nature.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Who are we? {"position":"1125,3725","size":"100,100"}
+Our planet is not ours anymore, and we are not ourselves. Our little ones do not understand when we try to tell them who we used to be.
+
+
+
+:: Who are we? {"position":"1125,3725","size":"100,100"}
+Our planet is not ours anymore, and we are not ourselves. Our little ones do not understand when we try to tell them who we used to be.
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/strange.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Yes, let's befriend them {"position":"1075,1275","size":"100,100"}
+We brought the astronauts what still lived in our gardens. We tried to show them the beautiful things about our planet, its bands of red striped earth, blooming untouched plants, purple mists in the morning, twinkling stars in the afternoon.
+
+[[What did they think of our planet?]]
+
+
+:: Yes, let's befriend them {"position":"1075,1275","size":"100,100"}
+We brought the astronauts what still lived in our gardens. We tried to show them the beautiful things about our planet, its bands of red striped earth, blooming untouched plants, purple mists in the morning, twinkling stars in the afternoon.
+
+[[What did they think of our planet?]]
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/nature.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Yes, let's give them back to the astronauts {"position":"675,1575","size":"100,100"}
+The astronauts gave us food in exchange for the papers and coins, but the food wasn’t enough. Our gardens died. We were hungry.
+
+[[More astronauts arrive]]
+
+
+:: Yes, let's give them back to the astronauts {"position":"675,1575","size":"100,100"}
+The astronauts gave us food in exchange for the papers and coins, but the food wasn’t enough. Our gardens died. We were hungry.
+
+[[More astronauts arrive]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/dead-garden.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/stomach.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: Yes, let's let them cut down the trees {"position":"850,850","size":"100,100"}
+Without the trees, our earth no longer had red striped bands. The ground shifted. Sometimes our houses got too hot in the sun.
+
+[[What about our houses?]]
+
+
+:: Yes, let's let them cut down the trees {"position":"850,850","size":"100,100"}
+Without the trees, our earth no longer had red striped bands. The ground shifted. Sometimes our houses got too hot in the sun.
+
+[[What about our houses?]]
+
+<div style="display: flex; justify-content: center;">
+<img style="max-width: 400px; max-height: 400px;" src=https://github.com/sktylr/digital-engagement-images/blob/main/deforestation.jpeg?raw=True />
+</div>
+
+<audio id="gameAudio" autoplay loop>
+    <source src="https://raw.githubusercontent.com/condrond/soundEffects/main/cuttingTree.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+
+:: StoryStylesheet [stylesheet]
+body {
+  font-size: 25px;
+}
+
+tw-story {
+  font-family: monaco, monospace, helvetica, sans-serif;
+  color: green;
+  background-color: #f7b5ed;
+}
